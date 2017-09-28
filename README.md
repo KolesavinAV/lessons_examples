@@ -9,3 +9,6 @@
         + [Создание объекта класса (с конструктором)](https://github.com/KolesavinAV/programming_lessons_examples/blob/master/22-09-2017/ball_object_constructor/ball_object_constructor.pde)
     + Тип данных **object**
         + [Ссылочные и значимые типа данных](https://github.com/KolesavinAV/programming_lessons_examples/blob/master/22-09-2017/link_values/link_values.pde)
++ ### Массивы
+    + Создание массивов
+        + [Примеры создания массивов](https://github.com/KolesavinAV/programming_lessons_examples/blob/master/28-09-2017/array_introduction/array_introduction.pde)
